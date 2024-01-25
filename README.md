@@ -1,5 +1,5 @@
-Connect scope channel A to PC13
-Connect scope channel B to any other pins
+- Connect scope channel A to PC13
+- Connect scope channel B to any other pins
 
 SWCLK SWDIO NRST VBAT are not tested
 
